@@ -87,7 +87,6 @@ const content = {
       class: 'Class :',
     },
     closePrompt: {
-      counting: 'The program will be closed automatically in 3 seconds.',
       message: "Thank you for tryin' this program. Have a nice day :))",
       sign: 'Made with ❤️  by Dimas Maulana',
     },
@@ -180,7 +179,6 @@ const content = {
       class: 'Kelas :',
     },
     closePrompt: {
-      counting: 'Program akan tertutup otomatis dalam 3 detik.',
       message: 'Terima kasih telah mencoba program ini. Semoga harimu menyenangkan :))',
       sign: 'Made with ❤️  by Dimas Maulana',
     },
